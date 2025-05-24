@@ -4,7 +4,7 @@ export default function Header() {
       <img
         className="react-logo"
         alt='react logo'
-        src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.NgoO9GZty71i2XnnEAtKbQHaFj%26pid%3DApi&f=1&ipt=3b70a677e31ab2420181c7acad643dfd6566a03bc7de55364554c77b7905c8be&ipo=images'
+        src='https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Ficon-react-native-24.png&f=1&nofb=1&ipt=13b80f71f6b73184209473a914f0d92be65f2bdc15e626ea86982a4d56ceabda'
       />
 
       <nav>
