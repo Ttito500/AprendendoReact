@@ -18,5 +18,5 @@ function Page() {
 }
 
 root.render(
-  <page />
+  <Page />
 );
